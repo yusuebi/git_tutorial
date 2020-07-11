@@ -1,0 +1,5 @@
+--•Ê–¼‚ðŽg‚Á‚½SQL•¶
+SELECT “ú•t, K.ƒƒ‚, H.ƒƒ‚
+FROM ‰ÆŒv•ë AS K
+JOIN ”ï–Ú AS H
+ON K.”ï–ÚID = H.ID

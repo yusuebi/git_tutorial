@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<title>Vue.js</title>
+</head>
+<body>
+<!--ページ本体-->
+<div id="app">
+  <form>
+    <!-- チェックボックスをshowに紐づけ -->
+    <label for="show">表示／非表示</label>
+    <input type="checkbox" id="show" v-model="show" />
+  </form>
+  <!-- showプロパティの値に応じて、パネルの表示／非表示を切り替え -->
+  <div id="panel" v-show="show">
+    <h3>RSSフィールドについて</h3>
+    <div>WINGSでは、弊社執筆の書籍／雑誌／Web記事の…</div>
+  </div>
+  <div v-else>現在、非表示状態です。</div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.js"></script>
+<script src="js/if.js"></script>
+</body>
+</html>

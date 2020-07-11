@@ -1,0 +1,3 @@
+--1‚Â‚Ì—ñ‚ðXV‚·‚éUPDATE•¶
+UPDATE ‰ÆŒv•ë
+SET “ü‹àŠz = 99999

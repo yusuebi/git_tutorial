@@ -1,0 +1,4 @@
+--³‚µ‚¢NULL‚Ì”»’è•û–@
+SELECT *
+FROM ‰ÆŒv•ë
+WHERE o‹àŠz IS NULL

@@ -1,0 +1,3 @@
+--ã‚ÌƒˆƒVƒ_ƒVƒQƒ‹‚³‚ñ‚¾‚¯‚ðíœ‚·‚é
+DELETE FROM ŽÐˆõ
+WHERE ŽÐˆõ”Ô† = '2003031'

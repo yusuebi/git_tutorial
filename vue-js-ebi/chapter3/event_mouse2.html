@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<title>Vue.js</title>
+</head>
+<body>
+<!--ページ本体-->
+<div id="app">
+    <!-- mouseenter/mouseleveイベント -->
+    <div id="outer"
+      v-on:mouseenter="onmousein" v-on:mouseleave="onmouseout">
+      外 (outer)
+      <p id="inner">
+        中(inner)
+      </p>
+    </div>
+    <div v-html="result"></<div>
+    </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.js"></script>
+<script src="js/event_mouse2.js"></script>
+</body>
+</html>

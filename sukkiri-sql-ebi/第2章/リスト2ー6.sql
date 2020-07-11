@@ -1,0 +1,3 @@
+--•¡”‚Ì—ñ‚ðŽæ“¾‚·‚éSELECT•¶
+SELECT ”ï–Ú,“ü‹àŠz,o‹àŠz
+FROM ‰ÆŒv•ë

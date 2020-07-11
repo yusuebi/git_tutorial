@@ -1,0 +1,6 @@
+--出金額の高い順に3件取得する
+SELECT 費目, 出金額
+FROM 家計簿
+ORDER BY 出金額 DESC
+OFFSET 0 ROWS
+FETCH NEXT 3 ROWS ONLY

@@ -1,0 +1,5 @@
+--1ŒŽ‚ÉŠÖ˜A‚·‚és‚ðŽæ“¾‚·‚éSELECT•¶
+SELECT *
+FROM ‰ÆŒv•ë
+WHERE ƒƒ‚
+LIKE '%1ŒŽ%'

@@ -1,0 +1,4 @@
+--•¡”‚Ì—ñ‚Å•À‚Ñ‘Ö‚¦‚é
+SELECT *
+FROM ‰ÆŒv•ë
+ORDER BY “ü‹àŠz DESC, o‹àŠz DESC

@@ -1,0 +1,3 @@
+--NULL‚ðƒ[ƒ‚Æ‚µ‚Ä•½‹Ï‚ð‹‚ß‚é
+SELECT AVG(COALESCE(o‹àŠz,0)) AS o‹àŠz‚Ì•½‹Ï
+FROM ‰ÆŒv•ë
